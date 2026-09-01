@@ -153,15 +153,15 @@ body {
 .post-details {
   padding: 0 16px 12px 16px;
   font-size: 13px;
-  color: #e0e5ec;
+  color: #0c0c0c;
 }
 
 .likes {
-  color: #e8ebef;
+  color: #060707;
 }
 
 .likes strong {
-  color: #e9eef6;
+  color: #030303;
 }
 
 /* Barra de Navegação Inferior */
